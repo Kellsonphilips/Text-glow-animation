@@ -3,6 +3,13 @@ CSS text glow animation
 
 This is a simple animation with CSS hope you find it awesome. 
 
+### Testing project
+
+- `git clone https://github.com/Kellsonphilips/Text-glow-animation/tree/master`
+- `cd Text-glow-animation`
+- `copy the HTML file path`
+- `paste on your brower and run`
+
 
 
 # Preview
